@@ -14,13 +14,13 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll new blog
 ```
 ![Primer-comando](imgs/1.PNG)
 Una vez hecho esto se nos creara la carpeta blog y dentro de ella estara todo lo de la configuracion de jekyll:
-![Lista-blog](imgs/2.PNG)
+![Lista-blog](imgs/2.png)
 
 Ya tenemos los archivos necearios para que la pagina funcione pero no queda instalar una gema. Al usar los comandos no se descarga la gema "webrick". A si entramos en la carpeta blog editamos el archivo Gemfile y añadimos al final:
 ```
 gem "webrick"
 ```
-![Gem](imgs/3.PNG)
+![Gem](imgs/3.png)
 
 Ahora ya contamos con todo lo necesario, introducimos el comando:
 ```
