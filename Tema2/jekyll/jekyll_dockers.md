@@ -1,7 +1,7 @@
 # **Actividad 1.2**: Crear un sitio local en Jekyll con ___Dockers___
 
 
-#### Carlos Mallavia Belmonte
+#### Adrián Villegas Fernández
 
 
 ## Opción 1:
